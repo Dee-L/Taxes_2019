@@ -35,7 +35,7 @@ The program is written predominantly in R. Not all files are published publicly.
 5. `scripts/`  
     0. `00_taxes_2019_program.r`  
     This program will prompt the user to verify that appropriate data are uploaded in the `inputs/` and `outputs/` directories. If the user validates this, the program will generate the workbook needed for the accountants into the `outputs/` directory.  
-    1. `01_my_fxns.r`  
+    1. `01_my_fxns_this_project.r`  
     Sources custom functions (not public).  
     2. `02_dates_of_interest.r`  
     Generates values and a list that will be used in other scripts.  

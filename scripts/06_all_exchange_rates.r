@@ -1,5 +1,5 @@
 # Load requirements
-source('01_my_fxns.r')
+source("01_my_fxns_this_project.r")
 
 requirements_df <-
   data.frame(
